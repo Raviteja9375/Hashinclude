@@ -1,3 +1,6 @@
+body{
+    background-color: aliceblue;
+}
 .nav-bar {
     display: flex;
     justify-content: space-evenly;
@@ -65,7 +68,6 @@ img.sub-image{
     margin-top: -32px;
 }
 p.card-content-para {
-    /* position: absolute; */
     width: 240px;
 }
 button.btn.card-button {
@@ -77,4 +79,30 @@ button.btn.card-button {
 .row{
     padding-left: 35px;
     display: inline-block;
+}
+.no-of-cards {
+    display: flex;
+    text-align: center;
+    padding-left: 35px;
+    margin: 51px;
+    justify-content: space-evenly;
+}
+.no-of-cards-2 {
+    display: flex;
+    text-align: center;
+    padding-left: 35px;
+    margin: 51px;
+    justify-content: space-evenly;
+}
+.primary-heading-container {
+    text-align: center;
+}
+span.i {
+    display: inline-block;
+    padding: 10px;
+}
+.row {
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-evenly;
 }
