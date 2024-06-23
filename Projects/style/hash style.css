@@ -68,7 +68,13 @@ img.sub-image{
     margin-top: -32px;
 }
 p.card-content-para {
-    width: 240px;
+    width: 220px;
+}
+.container-fluid {
+    display: flex;
+    padding: 2px;
+    margin: -1px;
+    justify-content: space-around;
 }
 button.btn.card-button {
     text-align: right;
@@ -101,8 +107,16 @@ span.i {
     display: inline-block;
     padding: 10px;
 }
-.row {
-    padding-left: 100px;
+/* .row {
+    padding-left: 140px;
     display: flex;
-    justify-content: space-evenly;
+    margin: 25px
+    justify-content: space-between
+} */
+.row {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 45px;
+    margin-right: 80px;
+    text-align: center;
 }
