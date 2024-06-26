@@ -65,7 +65,7 @@ img.sub-image{
 } 
 .each-card-content {
     font-size: 15px;
-    padding: 1px;
+    padding: 3px;
     margin-top: -10px;
     text-align: center;
 }
@@ -117,8 +117,78 @@ span.i {
 } */
 .row {
     display: flex;
-    justify-content: space-between;
-    padding-left: 45px;
-    margin-right: 80px;
     text-align: center;
+    width: 100%;
+    padding-left: 2px;
+    margin: 10px;
+    justify-content: space-evenly;
 }
+p.action{
+    background: #D4E1FF;
+    display: inline-block;
+    padding: 8px 18px;
+    border-radius: 8px;
+    color: #0b7077;
+    margin-bottom: 6px;
+    font-size: 24px;
+}
+.each-point {
+    display: flex;
+}
+.about-us-heading {
+    font-size: 37px;
+    background-color: #FFF;
+    vertical-align: middle;
+}
+p.content {
+    color: black;
+    line-height: 25px;
+    max-width: 100%;
+}
+button.btn.about-btn {
+    background-color: darkorange;
+    color: black;
+    font-size: 20px;
+}
+.hashinclude-stats {
+    display: flex;
+    background-color:black;
+    color: #FFF;
+    justify-content: space-evenly;
+    text-align: center;
+   }
+   span.testimonial {
+    font-size: 26px;
+}
+h2.heading {
+    font-size: 33px;
+}
+   .about-us-heading {
+    padding-bottom: 2px;
+    text-align: center;
+    /* background-color: #bec6ca; */
+}
+.container-fluid {
+    display: flex;
+    font-size: medium;
+    padding-left: 1px;
+}
+.offer-time {
+    padding-left: 585px;
+    margin-top: -227px;
+}
+.timer-setup {
+    display: flex;
+}
+p.hours {
+    padding-left: 14px;
+    padding-bottom: 1px;
+}
+.row-2 {
+    padding: 88px;
+}
+/* container-fluid-2 {
+    display: flex;
+    padding-left: 10px;
+    justify-content: space-evenly;
+} */

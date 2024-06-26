@@ -1,0 +1,186 @@
+body{
+    background-color: aliceblue;
+}
+.nav-bar {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 45px;
+    text-align: center;
+}
+button {
+    padding: 25px;
+    justify-content: left;
+}
+big {
+    padding: 55px;
+    margin-bottom: 24px;
+}
+h1.header {
+    font-size: xxx-large;
+    padding: 80px;
+    padding-left: 45px;
+    margin-bottom: 10px;
+}
+.header-border { 
+    border: 5px solid black; 
+    border-top: none;
+    border-radius: 0px 0px 45px 45px;
+  }
+  .image {
+    position: absolute;
+    padding: 632px;
+    top: -510px;
+}
+img.sub-image{
+    position: absolute; 
+    left: 180px;
+    top: 549px;
+  }    
+  p.btn {
+    text-transform: uppercase;
+    padding: 8px 28px;
+    margin-top: 14px;
+    width: 20%;
+    border-radius: 6%;
+}
+  img.round-bar {
+    position: absolute;
+    padding-left: 520px;
+    bottom: -1%;
+    cursor: pointer;
+} 
+.popular-courses {
+    text-align: center;
+    margin-top: 204px;  
+}
+.courses {
+    display: flex;
+    justify-content: space-evenly;
+}
+.student-cards {
+    display: flex;
+    font-size: 20px;
+    border: #E8F5E9;
+    padding: 2px;
+} 
+.each-card-content {
+    font-size: 15px;
+    padding: 3px;
+    margin-top: -10px;
+    text-align: center;
+}
+p.card-content-para {
+    width: 240px;
+}
+.container-fluid {
+    display: flex;
+    padding: 2px;
+    margin: -1px;
+    justify-content: space-around;
+}
+button.btn.card-button {
+    text-align: right;
+    padding-right: 33px;
+    padding-bottom: 14px;
+    font-size: 25px;
+}
+.row{
+    padding-left: 35px;
+    display: inline-block;
+}
+.no-of-cards {
+    display: flex;
+    text-align: center;
+    padding-left: 35px;
+    margin: 51px;
+    justify-content: space-evenly;
+}
+.no-of-cards-2 {
+    display: flex;
+    text-align: center;
+    padding-left: 35px;
+    margin: 51px;
+    justify-content: space-evenly;
+}
+.primary-heading-container {
+    text-align: center;
+}
+span.i {
+    display: inline-block;
+    padding: 10px;
+}
+/* .row {
+    padding-left: 140px;
+    display: flex;
+    margin: 25px
+    justify-content: space-between
+} */
+.row {
+    display: flex;
+    text-align: center;
+    width: 100%;
+    padding-left: 2px;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+p.action{
+    background: #D4E1FF;
+    display: inline-block;
+    padding: 8px 18px;
+    border-radius: 8px;
+    color: #0b7077;
+    margin-bottom: 6px;
+    font-size: 24px;
+}
+.each-point {
+    display: flex;
+}
+.about-us-heading {
+    font-size: 37px;
+    background-color: #FFF;
+    vertical-align: middle;
+}
+p.content {
+    color: black;
+    line-height: 25px;
+    max-width: 100%;
+}
+button.btn.about-btn {
+    background-color: darkorange;
+    color: black;
+    font-size: 20px;
+}
+.hashinclude-stats {
+    display: flex;
+    background-color:black;
+    color: #FFF;
+    justify-content: space-evenly;
+    text-align: center;
+   }
+   span.testimonial {
+    font-size: 26px;
+}
+h2.heading {
+    font-size: 33px;
+}
+   .about-us-heading {
+    padding-bottom: 2px;
+    text-align: center;
+    /* background-color: #bec6ca; */
+}
+.container-fluid {
+    display: flex;
+    font-size: medium;
+    padding-left: 1px;
+}
+.offer-time {
+    padding-left: 585px;
+    margin-top: -227px;
+}
+.timer-setup {
+    display: flex;
+}
+p.hours {
+    padding-left: 14px;
+    padding-bottom: 1px;
+}
