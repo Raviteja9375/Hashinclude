@@ -61,14 +61,16 @@ img.sub-image{
     display: flex;
     font-size: 20px;
     border: #E8F5E9;
+    padding: 2px;
 } 
 .each-card-content {
-    font-size: 20px;
-    padding: 10px;
-    margin-top: -32px;
+    font-size: 15px;
+    padding: 1px;
+    margin-top: -10px;
+    text-align: center;
 }
 p.card-content-para {
-    width: 220px;
+    width: 240px;
 }
 .container-fluid {
     display: flex;
