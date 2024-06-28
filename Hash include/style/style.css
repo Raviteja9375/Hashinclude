@@ -2,6 +2,9 @@ body{
   background-color: black;
   color: #FFF;
 }
+a {
+  text-decoration: none;
+}
 .explore.link.btn{
   position: absolute;
     left: 50%;
@@ -96,4 +99,28 @@ p.timer {
 }
 p.hours-cal {
   padding-left: 31px;
+}
+p.horizontal-line{
+  height: 1px;
+  display: block;
+  background: #fff;
+  width: 76%;
+  margin: auto;
+}
+img.dash-line {
+    padding-left: 643px;
+}
+h2.member-name {
+  margin-top: -263px;
+  padding-left: 38px;
+}
+p.member-designation {
+  padding-left: 76px;
+}
+.team-mate-2 {
+  margin-top: 121px;
+  padding-left: 10px;
+}
+footer.Location.details.my-5.mt-5 {
+  padding: 120px;
 }
