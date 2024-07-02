@@ -5,6 +5,10 @@ body{
 a {
   text-decoration: none;
 }
+/* .img-fluid {
+  max-width: 100%;
+  height: 110%;
+} */
 .explore.link.btn{
   position: absolute;
     left: 50%;
@@ -18,9 +22,7 @@ a {
 .explore{
   position: relative;
   border: 2px solid #fff;
-  border-top :0px
-  border-radius :30px
-  margin-top : 0px;
+  border-radius :45px
 }
 .main-image{
  width: 600px;
@@ -76,6 +78,23 @@ h2.secound-header.text-center {
   border-radius: 14px;
   height: 400px;
 }
+/* p.student-name {
+  margin-top: -75px;
+  padding-left: 202px;
+}
+/* .img-fluid {
+  max-width: 100%;
+  height: auto;
+  padding: 8px;
+  margin-right: 143px;
+}
+/* p.course-name {
+  padding-left: 84px;
+}
+p.rating {
+  margin-top: -21px;
+  padding-left: 172px;
+} */ */ */
 h1 {
   padding-left: 127px;
 }
@@ -84,6 +103,11 @@ p.tick-icon {
 }
 .border-box.text-info {
   padding-left: 142px;
+}
+.Offer.p-5.ms-5 {
+  background: #624BFF;
+  margin-top: 26px;
+  width: 90%;
 }
 h2.offer-time-heading {
   padding-left: 745px;
@@ -123,4 +147,141 @@ p.member-designation {
 }
 footer.Location.details.my-5.mt-5 {
   padding: 120px;
+}
+/* .Instutite.Address {
+  background-color: honeydew;
+  color: black;
+  padding-left: 11px;
+  margin-top: 15px;
+  border-radius: 25px;
+} */
+
+/* .container-fluid {
+  margin-top: -46px;
+} */
+
+h2.banner-heading {
+  font-size: 56px;
+  margin-top: -285px;
+  text-align: center;
+}
+p.banner-para {
+  text-align: center;
+  font-size: 24px;
+}
+p.underline {
+  text-align: center;
+  margin-top: -45px;
+}
+.container {
+  margin-top: 115px;
+  padding: 1px;
+}
+/* .container-fluid {
+  margin-top: 102px;
+  padding: 22px;
+} */
+.col-md-9 {
+  background: darkgrey;
+  color: #fff;
+}
+.qa-container {
+  /* background: darkgray;
+  color: #fff; */
+  padding: 20px;
+  margin-top: -6px;
+}
+p.name-icon {
+  color: cyan;
+  padding: 16px 14px;
+  border-radius: 18px;
+}
+p.question {
+  padding-left: 53px;
+  margin-top: -58px;
+}
+.answer-block {
+  background-color: black;
+  padding: 14px 10px;
+}
+p.answer {
+  max-width: 98%;
+  padding: 7px 48px;
+  font-weight: 200;
+  border-left: 3px solid #3CAA56;
+  margin-top: -4px;
+}
+img.like-btn {
+  cursor: pointer;
+  margin-top: -16px;
+}
+.each-question-block-2 {
+  margin-top: -32px;
+}
+.col-md-3 {
+  padding: 1px 1px;
+  background: dimgrey;
+  padding-left: 10px;
+  /* width: 25%;
+  max-width: 26%; */
+}
+.each-form-block {
+  margin-top: 20px;
+}
+button.btn.btn-submit{
+  border: 1px solid #F7DA64;
+  color: #f7da64;
+  margin-top: 20px;
+  padding: 6px 59px;
+  border-radius: 58px;
+}
+.enroll-form-container {
+  margin-top: -45px;
+  padding-left: 10px;
+}
+form.enroll-details {
+  padding-left: 153px;
+  background-color: darkgray;
+}
+.modal-content {
+  padding-left: 92px;
+}
+button.close {
+  padding-left: 649px;
+}
+/* .banner-fe-img {
+  padding-left: 106px;
+  background-color:black;
+} */
+.enroll-btn-container-2 {
+  text-align: right;
+  margin: 20px;
+}
+.container-fluid.int-add {
+  margin-top: -383px;
+  padding-left: 30px;
+  color: black;
+}
+p.footer-bg {
+  margin-top: 155px;
+  padding-left: 14px;
+}
+p.student-name {
+  padding-left: 22px;
+  margin-top: -83px;
+}
+p.course-name {
+  padding-left: 87px;
+  margin-top: -9px;
+}
+p.rating {
+  padding-left: 13px;
+  margin-top: -13px;
+}
+img.img-fluid.student-image {
+  padding-right: 290px;
+  margin-top: 24px;
+}
+p.student-feedback {
+  margin-top: 58px;
 }

@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: white;
+}
+a {
+    text-decoration: none;
+  }
+.banner-fe-img {
+    background-color:black;
+  }
+  .enroll-btn-container-2 {
+    text-align: right;
+    margin: 20px;
+  }
+  .frontend-banner{
+    background-color: #212121;
+    max-width: 90%;
+    margin: auto auto 78px;
+    color: ivory;
+    padding: 20px 31px 31px;
+}
+li {
+    margin-top: 16px;
+}
+.courses-redirect-block.d-flex.text-light {
+    justify-content: space-around;
+}
+.row {
+    margin-top: -381px;
+}
+.col-md-4 {
+    padding-left: 29px;
+}
+.container-fluid {
+    margin-top: 408px;
+}
+.course-card{
+    height: 320px;
+    border: .5px solid #fff;
+    border-radius: 9px;
+    padding: 30px;
+    background: #3442D9;
+}
+.container-fluid.int-add {
+    margin-top: 5px;
+    color: black;
+}
