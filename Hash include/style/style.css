@@ -225,7 +225,7 @@ img.like-btn {
   /* width: 25%;
   max-width: 26%; */
 }
-.each-form-block {
+/* .each-form-block {
   margin-top: 20px;
 }
 button.btn.btn-submit{
@@ -248,7 +248,7 @@ form.enroll-details {
 }
 button.close {
   padding-left: 649px;
-}
+} */
 /* .banner-fe-img {
   padding-left: 106px;
   background-color:black;
@@ -284,4 +284,65 @@ img.img-fluid.student-image {
 }
 p.student-feedback {
   margin-top: 58px;
+}
+.modal-content {
+  background: #212121;
+}
+.form-control {
+  background: #212121;
+  border: none;
+  border-bottom: 1px solid #fff;
+  border-radius: 0;
+  color: #fff;
+  padding-left: 0;
+}
+.form-select {
+  background: #212121;
+  border: none;
+  border-bottom: 1px solid #fff;
+  border-radius: 0;
+  color: #fff;
+}
+.register-btn button {
+  margin: 10px;
+  padding: 16px 58px 18px 129px;
+  color: #e3c75c;
+  margin-right: -121px;
+}
+.input-content input:focus {
+  background: #212121;
+}
+.input-content input::placeholder {
+  color: #545353;
+}
+
+.input-content textarea:focus {
+  background: #212121;
+}
+h1 {
+  padding-left: 101px;
+}
+section.early-slot {
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 767px){
+.nav-bar.d-flex.justify-content-evenly.p-5 {
+  margin-left: -46px;
+}
+.col-md-3 {
+  width: 299px;
+  padding: 1px 1px 3px 4px;
+  margin: 15px 0px 10px;
+}
+.inner-container.grid.text-center.py-5.gy-3.gx-md-5.gy-md-4 {
+  padding: 22px;
+  margin-top: -33px;
+}
+.col-md-3.bg-dark.px-2.text-light {
+  margin-top: 10px;
+}
+.col-md-3.mt-5.bg-dark.px-4.text-light {
+  margin-left: 164px;
+}
 }
